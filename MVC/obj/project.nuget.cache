@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JaeNFbj1kBeSgGVOwrvxS5bVsp52tB3G/3+/onZe+fhecou/YcQvpFV53KYE/zvdevhCgsLpXPV025KhI7vrzQ==",
+  "success": true,
+  "projectFilePath": "/Users/apple/Desktop/ProjectDotnetAll/MVC/MVC/MVC.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
